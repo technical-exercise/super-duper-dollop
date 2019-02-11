@@ -25,7 +25,7 @@ function MediaCard(props) {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="/contemplative-reptile.jpg"
+          image="contemplative-reptile.jpg"
           title="Contemplative Reptile"
         />
         <CardContent>
