@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/super-duper-dollop/precache-manifest.0a3fe84d2f256baac8456aa6d345d15d.js"
+  "/super-duper-dollop/precache-manifest.5401565e62095965da49143ebb87884e.js"
 );
 
 workbox.clientsClaim();

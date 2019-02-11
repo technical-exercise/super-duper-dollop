@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "7843df93bf1c6bcd9348",
-    "url": "/super-duper-dollop/static/js/main.7843df93.chunk.js"
+    "revision": "c0ba98d48c04cde065a3",
+    "url": "/super-duper-dollop/static/js/main.c0ba98d4.chunk.js"
   },
   {
     "revision": "f437e907ea9b84a23eeb",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/super-duper-dollop/static/js/2.2c850604.chunk.js"
   },
   {
-    "revision": "bc93b57799a10feab22c11525fffb218",
+    "revision": "0befd70a959ad859610fe8397ac8e6eb",
     "url": "/super-duper-dollop/index.html"
   }
 ];
